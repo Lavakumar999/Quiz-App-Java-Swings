@@ -1,0 +1,61 @@
+RollNumber     :     NameOfTheStudent
+314126511001   :     Akhila
+314126511002   :     Akshara
+314126511003   :     Apurva Maharana
+314126511004   :     Avinash
+314126511006   :     Bhashher 
+314126511007   :     Bhavya
+314126511008   :     Chandar Kanth
+314126511009   :     Chandara Sekhar
+314126511010   :     Chinmay Jyothi
+314126511011   :     Vamsi
+314126511014   :     Haripriya
+314126511015   :     Keerthi sree
+314126511016   :     Saiyojya
+314126511017   :     Poornima
+314126511018   :     Lava Kumar
+314126511019   :     Lelela Prashanthi
+314126511020   :     Madhuri
+314126511021   :     Monoj
+314126511022   :     Mounica
+314126511023   :     Deepika
+314126511024   :     Naveen
+314126511025   :     Niharika
+314126511026   :     Nitish
+314126511027   :     Vemanya
+314126511028   :     PavanGanesh
+314126511029   :     Pranitha
+314126511030   :     Rambabu
+314126511031   :     Ramya
+314126511032   :     Rashmi
+314126511033   :     Ravi
+314126511034   :     Ravi Kiran
+314126511035   :     Ankith
+314126511036   :     Renuka
+314126511037   :     sai Apurva
+314126511038   :     Charitha
+314126511039   :     vandana
+314126511040   :     Ramteja
+314126511041   :     Pranay
+314126511042   :     Sai Rohith
+314126511043   :     Supriya
+314126511044   :     Likitha
+314126511045   :     Satish
+314126511046   :     Dinesh
+314126511047   :     Sri Raj
+314126511048   :     Sri Devi
+314126511049   :     Sudeepthy
+314126511050   :     Buvan
+314126511051   :     Suresh
+314126511052   :     Swathi
+314126511053   :     Tejaswi
+314126511055   :     Udaya Lakshmi
+314126511056   :     Usha Rani
+314126511057   :     Vanditha Singh
+314126511058   :     Vijosha
+314126511059   :     Vinay
+
+
+
+
+

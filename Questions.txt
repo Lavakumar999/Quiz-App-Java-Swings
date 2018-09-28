@@ -1,0 +1,30 @@
+5
+1.Whos is the google ceo?
+a)lavakumar
+b)billgates
+c)sundhar pichhai
+d)sathya nadal
+#
+2.Who is the facebook ceo?
+a)markZukerberg
+b)william joshley
+c)james franklen
+d)stev jobs
+#
+3.India capital ?
+a)delhi
+b)mumbai
+c)andhrapradesh
+d)kolkata
+#
+4.Future Google ceo?
+a)Lavakumar
+b)sundharpicchai
+c)both a&b
+d)non of these
+#
+5.Your name Strating is?
+a)String
+b)int
+c)char
+d)Byte
